@@ -71,7 +71,7 @@ Just include immudb4j as a dependency in your project:
 
 immudb4j supports the [latest immudb server] release.
 
-[latest immudb server]: https://github.com/codenotary/immudb/releases/tag/v1.5.0
+[latest immudb server]: https://github.com/codenotary/immudb/releases/tag/v1.9.6
 
 ## Quickstart
 
